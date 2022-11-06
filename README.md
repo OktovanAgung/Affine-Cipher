@@ -5,3 +5,6 @@
 
 # AFFINE CIPHER
 
+Output :
+
+![img](output.png)
